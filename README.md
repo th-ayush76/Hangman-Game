@@ -15,4 +15,4 @@ A command-line implementation of the classic Hangman word-guessing game built us
 - You must guess the correct word before all your lives run out!
 
 ---
-*Developed by ayush
+*Developed by Ayush
